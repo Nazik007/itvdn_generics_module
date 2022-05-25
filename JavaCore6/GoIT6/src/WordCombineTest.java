@@ -1,5 +1,3 @@
-import java.util.Locale;
-
 class WordCombineTest {
     public static void main(String[] args) {
         //true

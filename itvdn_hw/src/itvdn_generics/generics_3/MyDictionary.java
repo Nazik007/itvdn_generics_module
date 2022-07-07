@@ -1,4 +1,4 @@
-package generics_3;
+package itvdn_generics.generics_3;
 
 import java.util.ArrayList;
 
